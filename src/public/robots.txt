@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Explicit Search Engine Allow Rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: yisouspider
+Allow: /
+
+Sitemap: https://airportverge.blog/sitemap.xml

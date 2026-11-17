@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# VitePress cache and build outputs
+.vitepress/cache/
+.vitepress/dist/
+src/.vitepress/cache/
+src/.vitepress/dist/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary and scratch files
+temp_brands.js
